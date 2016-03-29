@@ -9,6 +9,10 @@ public class Hello{
         
         
         啦啦啦啦啦了
+<<<<<<< HEAD
         //master修改
+=======
+        //分支brh修改
+>>>>>>> brh
 	}
 }                   
